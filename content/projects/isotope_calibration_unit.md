@@ -31,4 +31,4 @@ focused on high precision ice core measurements.
 
 Vasileios Gkinis v.gkinis@nbi.ku.dk
 
-![image alt text](/picture_msc_thesis.jpg)
+![image alt text](/drillnorabo.jpg)
