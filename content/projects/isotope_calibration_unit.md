@@ -11,7 +11,7 @@ At the Water Isotope Laboratory at [PICE](https://nbi.ku.dk/english/research/pic
 a motivated student to work on a new and exciting project on ice core instrumentation development.
 We are interested to investigate the use of microfluidics and in particular
 piezo-actuated micropumps for high-resolution ice core analysis.
-In particular, we would like to develop a very low flow, automated module for the calibration
+Our goal is to develop a very low-flow, stable and automated module for the calibration
 of laser spectroscopy measurements of the stable isotopes of water in ice cores as well as
 in atmospheric vapor at very low humidity environments (such as the polar ice core
 drilling sites in Greenland and Antarctica). The project can also be extended to
@@ -24,8 +24,10 @@ We expect some prior experience with Python and optimally micro-controllers/Ardu
 You can also expect to get hands-on training on laboratory techniques and laser spectroscopy
 focused on high precision ice core measurements.
 
+### We are looking forward to hearing from you!
 
 
+### Should you have any questions, you are very welcome to contact:
 
 Vasileios Gkinis v.gkinis@nbi.ku.dk
 
