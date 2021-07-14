@@ -1,0 +1,38 @@
+title = "Student projects - Isotope Lab PICE, Niels Bohr Institute"
+baseURL = "/"
+theme = "tale"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
+enableEmoji = true
+math = false  # enable KaTeX (https://katex.org/) globally
+
+[params]
+  author = "Olivier Roques"
+  description = "A simple monospaced resume theme for Hugo."
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  [params.footer]
+    text = "By Olivier Roques"
+    url = "https://github.com/ojroques/hugo-researcher"
+
+[permalinks]
+  "/" = "/:filename"
+
+
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
+
+[menu]
+
+  # [[menu.main]]
+  #   identifier = "about"
+  #   name = "about hugo"
+  #   pre = "<i class='fa fa-heart'></i>"
+  #   url = "/about/"
+  #   weight = -110
+  #
+  # [[menu.main]]
+  #   name = "getting started"
+  #   post = "<span class='alert'>New!</span>"
+  #   pre = "<i class='fa fa-road'></i>"
+  #   url = "/getting-started/"
+  #   weight = -100
