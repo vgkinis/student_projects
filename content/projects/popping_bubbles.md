@@ -4,14 +4,33 @@ date: 2021-07-13T12:59:09+02:00
 draft: false
 ---
 ## Msc Thesis Project: The sonic signature of ancient air bubbles in ice cores
-Are you looking for an exciting Msc thesis project where you can combine your **Python** computational skills with inverse methods and state of the art datasets of **N<sub>2</sub> and Ar isotopes** in order to look far back in **Greenland's past climate**? If you are fascinated by **polar research** and curious about **climate change processes** this may be a unique chance for you to join a dynamic group with decades of history in polar and ice core research.
+**Keywords:** *ice cores; paleoclimate; Greenland; polar research; Continuous Flow Analysis;
+sound measurements; total air content; Python; spectral analysis; bubbles*
 
-You will be looking into the abrupt warming signals during the sudden end of the last Ice Age about 12,000 ago and using a state-of-the-art model of [snow densification and gas diffusion](https://github.com/UWGlaciology/CommunityFirnModel) you will work towards quantifying the magnitude and rapidity of the abrupt climate change during this time. We require that you are familiar with Python and you can expect your skills to get very sharp during the duration of the project. You will get hands-on experience with polar snow/firn modelling tools and high quality datasets of N<sub>2</sub> and Ar isotopes from the air bubbles in the ancient ice.
-We are a very open and dynamic [group](https://www.nbi.ku.dk/english/research/pice/) with a variety of nationalities and backgrounds as well as a wide international network of collaborations.
-Should you have any questions on the project feel free to contact:
+The air bubbles occluded in polar ice cores contain extremely valuable paleoclimatic
+information in the form of ancient air, whose composition can be determined in the lab
+yielding time series of gas concentrations in atmosphere spanning millennia.
+Another characteristic of the ancient air bubbles is their popping sound emission
+when ice core samples are being controllably melted for high-resolution Continuous Flow
+Analysis measurements.
 
+We would like to investigate the audio signal of the "popping" bubbles. Our goal
+is to perform high quality sound recordings followed by spectral analysis of the
+bubble popping frequencies in order to infer how many and how large the bubbles are.
+Therefore, we offer a Master thesis project for a motivated student who will further develop
+the recording and melting system as well as work on the data analysis of the sounds recordings.
+
+You can expect to gain skills in sound and bubble physics, sound recordings as well
+as high resolution ice core measurements. You will also work with noise filtering and
+spectral analysis techniques. Prior experience in data analysis with Python/Matlab is a plus.
+[PICE](https://nbi.ku.dk/english/research/pice/) is an active, multinational/multicultural group
+with plenty of learning opportunities.
+
+### We will be happy to hear from you!
+
+### Should you have any questions on the project feel free to contact:
 Vasileios Gkinis v.gkinis@nbi.ku.dk
 
-Michael Döring michael.doring@nbi.ku.dk
+
 
 ![image alt text](/picture_msc_thesis.jpg)
